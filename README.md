@@ -1,3 +1,2 @@
 # LIFE SYSTEM
-JSRT demo version
-diddy ngro
+LIFE SYSTEM PY demo model with vandal AI
